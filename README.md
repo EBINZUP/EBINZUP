@@ -1,7 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />  My friends call me Ebi, let's write code together to become one of them <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face With Sunglasses" width="25" height="25" />
-
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="350">
 <br><br>
+</div>
+
 
 *I'm currently studying for my master's in artificial intelligence. 
 I am interested in developing some code and projects like ML, neural networks, etc. In my repository, you can see some of the code I wrote until now.*
