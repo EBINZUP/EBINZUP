@@ -11,15 +11,16 @@ I am interested in developing some code and projects like ML, neural networks, e
 
 ## Languages and Tools
 <div align="left">
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
+
 </div>
 
 
